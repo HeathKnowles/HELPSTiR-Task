@@ -61,5 +61,16 @@ The Todo List application is designed with a modular and scalable architecture t
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/HeathKnowles/HELPSTiR-Task.git
+   cd HELPSTiR-Task
+   ```
+2. **Install the Packages:**
+   
+   ```bash
+   npm i
+   ```
+
+3. **Open the website:**
+
+   https://localhost:3000
+
